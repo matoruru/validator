@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "description": "Readable and customizable validation library",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "lint": "eslint . --ext .ts"
   },
   "repository": {
     "type": "git",
