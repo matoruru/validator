@@ -1,0 +1,23 @@
+{
+  "name": "@matoruru/validator",
+  "version": "0.1.0",
+  "description": "Readable and customizable validation library",
+  "scripts": {
+    "test": "echo \"Implement me!\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matoruru/validator.git"
+  },
+  "keywords": [
+    "validator",
+    "validation",
+    "form"
+  ],
+  "author": "matoruru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matoruru/validator/issues"
+  },
+  "homepage": "https://github.com/matoruru/validator#readme"
+}
