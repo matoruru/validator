@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/matoruru/validator/issues"
   },
-  "homepage": "https://github.com/matoruru/validator#readme"
+  "homepage": "https://github.com/matoruru/validator#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.22",
+    "jest": "^26.6.3"
+  }
 }
